@@ -3,7 +3,6 @@ from test import MainWindow
 import sys
 
 
-
 def main():
     """Main"""
     app = QApplication(sys.argv)
